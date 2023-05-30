@@ -1,7 +1,7 @@
-* College of Liberal Studies, SNU.
+* College of Liberal Studies, SNU (2019~)
   * Majoring in Linguistics and AI.
 
-* Republic of Korea Navy Headquaters, Gyeryong (2023.1.~)
+* Republic of Korea Navy Headquaters, Gyeryong (2023~)
   * AI researcher
 
 
